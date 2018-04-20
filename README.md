@@ -2,7 +2,7 @@
 X-code HTTP Fuzzer
 ------------------
 
-Aplikasi untuk fuzzing service http. 
+Aplikasi python untuk fuzzing service http atau bisa digunakan sebagai tool serangan denial of service pada service-service web server tertentu.
 
 Licensi
 -------
